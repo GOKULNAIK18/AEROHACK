@@ -34,7 +34,7 @@
 
 🔧 Installation
 
-git clone https://github.com/GOKULNAIK18/CubeMasterPro.git
+git clone [https://github.com/GOKULNAIK18/CubeMasterPro.git](https://github.com/GOKULNAIK18/AEROHACK.git)
 cd CubeMasterPro
 pip install -r requirements.txt
 python main.py
