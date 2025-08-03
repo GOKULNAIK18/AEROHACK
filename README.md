@@ -59,3 +59,7 @@ CubeMasterPro/
 | Solving Time        | \~0.1–1.0s    | \~0.0002s (3x3)       |
 | Educational Support | Raw move list | Human-readable output |
 | Scalability         | Limited       | Enterprise-ready      |
+
+
+
+
