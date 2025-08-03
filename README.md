@@ -35,11 +35,8 @@
 🔧 Installation
 
 git clone https://github.com/GOKULNAIK18/CubeMasterPro.git
-
 cd CubeMasterPro
-
 pip install -r requirements.txt
-
 python main.py
 
 
